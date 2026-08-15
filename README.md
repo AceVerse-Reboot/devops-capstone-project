@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/AceVerse-Reboot/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repository contains my submission for the **DevOps Capstone Project**, part of the IBM DevOps and Software Engineering Professional Certificate. The goal of this project is to develop an account microservice for an e-commerce platform. The service exposes a REST API that other microservices can call to create, read, update, delete, and list customer accounts.
 
 The database model and the initial "create account" endpoint were provided as a starting point. This project adds the remaining REST API endpoints (read, update, delete, list), plans and tracks the work using GitHub Agile Planning tools, and prepares the service for containerization with Docker and deployment to Kubernetes.
